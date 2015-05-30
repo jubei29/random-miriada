@@ -7,3 +7,5 @@ if (numero <= .5) {
 }
 
 console.log("\n" + numero + str + "\n");
+
+// Rama testing
